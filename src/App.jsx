@@ -1,9 +1,10 @@
 import React from 'react'
+import Home from './components/Home'
 
 const App = () => {
   return (
     <div className='app'>
-      <h1>Let's build Netflix</h1>
+      <Home />
     </div>
   )
 }
